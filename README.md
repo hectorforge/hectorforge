@@ -64,13 +64,13 @@
 ## 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin/">
+  <a href="https://www.linkedin.com/in/hector-julio-hernandez-tacas-14512a32b/">
     <img src="https://img.shields.io/badge/LinkedIn-Héctor%20Hernández-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tuemail@example.com">
+  <a href="hector.hernandez.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-tuemail@example.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/hectorforge">
     <img src="https://img.shields.io/badge/GitHub-Héctor%20Hernández-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
