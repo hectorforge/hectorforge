@@ -1,8 +1,10 @@
 <h1 align="center"><b>Hola, soy Héctor Julio Hernández Tacas 👨‍💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%7C+.NET+%7C+Node.js;Frontend+Entusiasta+%7C+Angular+%7C+React+%7C+Tailwind;Experto+en+SQL+Server+%7C+Oracle+%7C+MongoDB;Conocimientos+en+Ofimática+y+herramientas+de+colaboración;Siempre+aprendiendo+y+mejorando+cada+día+🚀" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
 
 ---
 
