@@ -8,7 +8,7 @@
 
 ## 🧠 Sobre mí
 
-<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250"/>
+<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250"/>
 
 - 🎓 Profesional en **Computación e Informática**
 - 💻 Apasionado desarrollador backend con experiencia en:
