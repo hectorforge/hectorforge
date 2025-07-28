@@ -4,7 +4,7 @@
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
-<h1 align="center"><b>Hola, soy Héctor Julio Hernández Tacas 👨‍💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>👨‍💻 Yo soy Hector Julio Hernandez Tacas 👨‍💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ---
 
